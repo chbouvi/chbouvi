@@ -1,8 +1,8 @@
 # Hi, I'm Chris
 
-I'm a CS student at UMass Amherst interested in data science, statistics, machine learning, and applied AI.
+I'm a CS student at UMass Amherst interested in data science, statistics, machine learning, and building useful data-driven tools.
 
-This summer, I'm working with a professor-led research group on NLP classification using BERT models and Python. I'm also building projects that help me get better at data analysis, visualization, forecasting, and AI-powered applications.
+This summer, I'm working with a professor-led research group on NLP classification using BERT models and Python. I'm also building projects to get better at data analysis, visualization, forecasting, and applied AI.
 
 ## Projects
 
@@ -13,7 +13,7 @@ An in-progress Spotify analytics project that analyzes listening patterns and ge
 - Uses Spotify data to analyze top tracks, artists, listening behavior, and taste changes across time ranges
 - Computes metrics like artist frequency, artist variety, top artist overlap, and recent taste shift
 - Generates personalized taste summaries from structured listening analytics
-- Recommends artists using listening signals like top artists, repeated artists, genres, overlap, and taste metrics
+- Recommends artists using listening signals like top artists, repeated artists, overlap, and taste metrics
 
 ### Workout Analytics Dashboard
 A workout analytics app for tracking training progress and exploring performance trends.
